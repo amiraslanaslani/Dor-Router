@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "acafcc16670937107482cec19c9398b9",
+    "packages": [
+        {
+            "name": "dor/http",
+            "version": "0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/amiraslanaslani/Dor-Http-Library.git",
+                "reference": "03bd01c94e3637bd0d2b46dcc4dd65eeaf9c2ed0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/amiraslanaslani/Dor-Http-Library/zipball/03bd01c94e3637bd0d2b46dcc4dd65eeaf9c2ed0",
+                "reference": "03bd01c94e3637bd0d2b46dcc4dd65eeaf9c2ed0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Dor\\Http": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Amir Aslan Aslani",
+                    "email": "man@amiraslan.ir",
+                    "homepage": "http://amiraslan.ir",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Dor Http Library",
+            "homepage": "http://amiraslan.ir",
+            "keywords": [
+                "Dor",
+                "http"
+            ],
+            "time": "2019-06-29T12:11:19+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.1.0"
+    },
+    "platform-dev": []
+}

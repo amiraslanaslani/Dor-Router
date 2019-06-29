@@ -1,0 +1,25 @@
+{
+    "name": "dor/router",
+    "type": "library",
+    "description": "Dor Router Library",
+    "keywords": ["Dor","Router"],
+    "homepage": "http://amiraslan.ir",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Amir Aslan Aslani",
+            "email": "man@amiraslan.ir",
+            "homepage": "http://amiraslan.ir",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dor/http": "0.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Dor\\Router": ""
+        }
+    }
+}
