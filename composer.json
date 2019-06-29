@@ -15,7 +15,8 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "dor/http": "0.0.0"
+        "dor/http": "0.0.0",
+        "dor/annotationparser": "0.0.0"
     },
     "autoload": {
         "psr-0": {
